@@ -1,1 +1,2 @@
 Primera versión del prototipo de Bella Luna.
+Archivo utilizado para registrar la primera versión del prototipo de Bella Luna.
